@@ -1,4 +1,3 @@
-root@ip-172-31-12-125:/home/ubuntu/threetier/frontend# cat Dockerfile
 # Use an official Nginx image as the base image
 FROM nginx:alpine
 
